@@ -1,0 +1,43 @@
+body {
+    background:
+      url(pubg.jpg) bottom center no-repeat;
+      
+  }
+  html {
+    width: 100%;
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+  }
+img{
+    width: 55%;
+    height:55%;
+}
+h3{
+    font-size:2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:whitesmoke;
+    text-shadow: black 0px 0px 10px;
+    /*background-color: rgba(124, 64, 64, 0.5);*/
+}
+.btn-success{
+    background-color: orange;
+    border-radius: 3em;
+    border: 0px  5em;
+    border-color: orange;
+    padding: 20px 25px;
+}
+.btn {
+    font-weight: 800;
+    transition: all 1s;
+}
+.btn:hover{
+    background-color: rgba(255, 166, 0, 0.651);
+    border-color: orange;
+    transform:scale(1.1);
+}
+hr{
+    height: 2px;
+    max-width: 6rem;
+    background-color: orange;
+    margin-top: 70px;
+  }
